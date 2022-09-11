@@ -1,0 +1,4 @@
+Bilgisayar Programlamaya Giriş
+Bilgisayar Nedir? Bilgisayar bir fabrika veya bir sistem gibidir.
+Donanım ünitelerinden ve yazılımlardan oluşur.
+
