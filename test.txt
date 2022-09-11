@@ -1,4 +1,5 @@
 Bilgisayar Programlamaya Giriş
 Bilgisayar Nedir? Bilgisayar bir fabrika veya bir sistem gibidir.
 Donanım ünitelerinden ve yazılımlardan oluşur.
-Merkezi işlem birimi, ana bellek ve çevre birimleri nedir_
+Merkezi işlem birimi, ana bellek ve çevre birimleri nedir?
+İşletim Sistem ve Kullanıcı uygulamaları
