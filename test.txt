@@ -4,3 +4,4 @@ Donanım ünitelerinden ve yazılımlardan oluşur.
 Merkezi işlem birimi, ana bellek ve çevre birimleri nedir?
 İşletim Sistem ve Kullanıcı uygulamaları
 Merhaba kardeş! Nasılsın?
+nihihihih
